@@ -1,0 +1,152 @@
+
+sunnyAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 1
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 10
+
+sunnyAtlas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 11
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 12
+
+sunnyAtlas3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 13
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 14
+
+sunnyAtlas4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 15
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 16
+
+sunnyAtlas5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 2
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 3
+
+sunnyAtlas6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 4
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 5
+
+sunnyAtlas7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 6
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 7
+
+sunnyAtlas8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunnyDay
+  rotate: false
+  xy: 1, 1443
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 8
+sunnyDay
+  rotate: false
+  xy: 1, 1
+  size: 2560, 1440
+  orig: 2560, 1440
+  offset: 0, 0
+  index: 9

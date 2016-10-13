@@ -1,0 +1,110 @@
+
+empowerAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+empower
+  rotate: false
+  xy: 1, 405
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 1
+empower
+  rotate: false
+  xy: 1, 203
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 10
+empower
+  rotate: false
+  xy: 183, 405
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 11
+empower
+  rotate: false
+  xy: 1, 1
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 12
+empower
+  rotate: false
+  xy: 183, 203
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 13
+empower
+  rotate: false
+  xy: 365, 405
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 14
+empower
+  rotate: false
+  xy: 183, 1
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 15
+empower
+  rotate: false
+  xy: 365, 203
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 2
+empower
+  rotate: false
+  xy: 547, 405
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 3
+empower
+  rotate: false
+  xy: 365, 1
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 4
+empower
+  rotate: false
+  xy: 547, 203
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 5
+empower
+  rotate: false
+  xy: 729, 405
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 6
+empower
+  rotate: false
+  xy: 547, 1
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 7
+empower
+  rotate: false
+  xy: 729, 203
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 8
+empower
+  rotate: false
+  xy: 729, 1
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: 9
